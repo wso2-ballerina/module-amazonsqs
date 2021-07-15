@@ -7,7 +7,7 @@ Connects to Amazon SQS from Ballerina
 | Ballerina Language Version                                                         | **Swan Lake Beta 2**  |
 | [Amazon SQS API](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html) Version     | **2012-11-05**              |
 
-The `aws.sqs` is a [Ballerina](https://ballerina.io/) connector for Amazon SQS.
+The `ballerinax/aws.sqs` is a [Ballerina](https://ballerina.io/) connector for Amazon SQS.
 
 This package provides the capability to easily access Amazon SQS.
 
