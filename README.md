@@ -4,13 +4,11 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-aws.sqs.svg)](https://github.com/ballerina-platform/module-ballerinax-aws.sqs/commits/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-The `aws.sqs` is a [Ballerina](https://ballerina.io/) connector for Amazon SQS.
-
 [Amazon SQS](https://aws.amazon.com/sqs/) is a message queuing service developed by Amazon.
 
 This connector provides operations for connecting and interacting with Amazon SQS endpoints over the network. 
 For more information about configuration and operations, go to the module. 
-- [`aws.sqs`](https://docs.central.ballerina.io/ballerinax/aws.sqs/latest).
+- [`ballerinax/aws.sqs`](https://docs.central.ballerina.io/ballerinax/aws.sqs/latest)
 
 # Building from the Source
 ## Setting Up the Prerequisites
