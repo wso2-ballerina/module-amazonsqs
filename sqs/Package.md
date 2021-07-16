@@ -9,13 +9,7 @@ This package provides the capability to easily access Amazon SQS.
 |                             |            Versions      |
 |:---------------------------:|:------------------------:|
 | Ballerina Language          |     Swan Lake Beta2      |
-| Amazon SQS API              |       2012-11-05         |
-
-#### Compatibility
-|                                                                                    | Version               |
-|------------------------------------------------------------------------------------|-----------------------|
-| Ballerina Language Version                                                         | **Swan Lake Beta 2**  |
-| [Amazon SQS API](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html) Version     | **2012-11-05**              |
+| Amazon SQS API              |       2012-11-05         |            |
 
 ### Report Issues
 
