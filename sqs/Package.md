@@ -3,7 +3,7 @@ Connects to Amazon SQS from Ballerina
 ### Package Overview
 The `ballerinax/aws.sqs` is a [Ballerina](https://ballerina.io/) connector for Amazon SQS.
 
-This package provides the capability to easily access Amazon SQS.
+This package provides the capability to easily access Amazon SQS and it provides capability to perform operations related to queues and messages.
 
 ## Compatibility
 |                             |            Versions      |
